@@ -1,0 +1,4 @@
+0x09a89410	crypto_sm4_expand_key	/home/xullin/testCode/sm4_encrpytion/sm4_generic	EXPORT_SYMBOL_GPL	
+0xee238c13	crypto_sm4_set_key	/home/xullin/testCode/sm4_encrpytion/sm4_generic	EXPORT_SYMBOL_GPL	
+0xbeb62599	crypto_sm4_encrypt	/home/xullin/testCode/sm4_encrpytion/sm4_generic	EXPORT_SYMBOL_GPL	
+0xd8e5384a	crypto_sm4_decrypt	/home/xullin/testCode/sm4_encrpytion/sm4_generic	EXPORT_SYMBOL_GPL	

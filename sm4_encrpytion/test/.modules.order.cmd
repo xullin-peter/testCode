@@ -1,0 +1,1 @@
+cmd_/home/xullin/testCode/sm4_encrpytion/test/modules.order := {   echo /home/xullin/testCode/sm4_encrpytion/test/sm4_Algtest.ko; :; } | awk '!x[$$0]++' - > /home/xullin/testCode/sm4_encrpytion/test/modules.order

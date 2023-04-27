@@ -1,0 +1,1 @@
+cmd_/home/xullin/testCode/sm4_encrpytion/Module.symvers := sed 's/ko$$/o/' /home/xullin/testCode/sm4_encrpytion/modules.order | scripts/mod/modpost -m -a  -o /home/xullin/testCode/sm4_encrpytion/Module.symvers -e -i Module.symvers   -T -

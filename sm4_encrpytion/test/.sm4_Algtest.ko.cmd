@@ -1,0 +1,1 @@
+cmd_/home/xullin/testCode/sm4_encrpytion/test/sm4_Algtest.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/xullin/testCode/sm4_encrpytion/test/sm4_Algtest.ko /home/xullin/testCode/sm4_encrpytion/test/sm4_Algtest.o /home/xullin/testCode/sm4_encrpytion/test/sm4_Algtest.mod.o;  true

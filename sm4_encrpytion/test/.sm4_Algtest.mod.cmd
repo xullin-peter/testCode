@@ -1,0 +1,1 @@
+cmd_/home/xullin/testCode/sm4_encrpytion/test/sm4_Algtest.mod := printf '%s\n'   sm4_Algtest.o | awk '!x[$$0]++ { print("/home/xullin/testCode/sm4_encrpytion/test/"$$0) }' > /home/xullin/testCode/sm4_encrpytion/test/sm4_Algtest.mod
